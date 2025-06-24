@@ -1,0 +1,21 @@
+# File di backup di MATLAB
+*.asv
+*.bak
+
+# Output temporanei o intermedi
+*.log
+*.out
+
+
+# .vsp3 con copyright
+L100.vsp3
+L100_New_Vertical.vsp3
+FAME_FCRA_2500_4DLR_VC.vsp3
+COLOSSUS_WTT_Baseline.vsp3
+OJ1.vsp3
+UHERA.vsp3
+
+
+
+
+
