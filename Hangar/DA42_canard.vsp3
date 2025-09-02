@@ -9,14 +9,14 @@
         <CORX Value="0.000000000000000000e+00" ID="ZNCZWERWHTV"/>
         <CORY Value="0.000000000000000000e+00" ID="YBVCKHTODIS"/>
         <CORZ Value="0.000000000000000000e+00" ID="CQDNANKLHYX"/>
-        <PanX Value="-8.804355263710021973e-01" ID="VRJTRULNFPS"/>
-        <PanY Value="-8.395421504974365234e-01" ID="VVMMKMUMNPK"/>
-        <RotationX Value="1.742671028045790393e+01" ID="IYCRLMGHWGO"/>
-        <RotationY Value="-6.635731635285736729e+01" ID="NDJAYFQMIND"/>
-        <RotationZ Value="-5.539606143318624021e+01" ID="RSLSJHKMPFI"/>
+        <PanX Value="-6.272403240203857422e+00" ID="VRJTRULNFPS"/>
+        <PanY Value="1.576876521110534668e+00" ID="VVMMKMUMNPK"/>
+        <RotationX Value="4.497967802436370732e+01" ID="IYCRLMGHWGO"/>
+        <RotationY Value="-1.312654035945082676e+00" ID="NDJAYFQMIND"/>
+        <RotationZ Value="-1.940312796963864628e+01" ID="RSLSJHKMPFI"/>
         <ViewportX Value="0.000000000000000000e+00" ID="TJNQKCUKUQS"/>
         <ViewportY Value="0.000000000000000000e+00" ID="QRWBZZZVUNT"/>
-        <Zoom Value="1.361059304326772690e-02" ID="AMXWMPADZSC"/>
+        <Zoom Value="1.565220579504966736e-02" ID="AMXWMPADZSC"/>
       </AdjustView>
       <AdvLinkSettings>
         <AdvLinkDefNameContainer Value="1.000000000000000000e+00" ID="HTXYVQUKWSF"/>
@@ -33,7 +33,7 @@
       </Axis>
       <BBox>
         <X_Len Value="8.501417941908011144e+00" ID="HUDNGXRMYFS"/>
-        <X_Min Value="-3.700743415417188263e-17" ID="TTIFEPIYIJW"/>
+        <X_Min Value="0.000000000000000000e+00" ID="TTIFEPIYIJW"/>
         <Y_Len Value="1.288095247157492551e+01" ID="SDOICYATCLA"/>
         <Y_Min Value="-6.440476235787462755e+00" ID="SPNBWFDGSYA"/>
         <Z_Len Value="2.191555742556442254e+00" ID="PVVYZNMDHWW"/>
@@ -185,10 +185,10 @@
       </SVGSettings>
       <Screenshot>
         <AutoCropFlag Value="0.000000000000000000e+00" ID="UJTAFPQMBWE"/>
-        <Height Value="9.090000000000000000e+02" ID="POLPOEXTPSO"/>
+        <Height Value="9.590000000000000000e+02" ID="POLPOEXTPSO"/>
         <Ratio Value="1.000000000000000000e+00" ID="JJIVAEMYFMA"/>
         <TransparentBGFlag Value="1.000000000000000000e+00" ID="FTEJYLKHBWN"/>
-        <Width Value="9.710000000000000000e+02" ID="URHIQFXYSWG"/>
+        <Width Value="1.920000000000000000e+03" ID="URHIQFXYSWG"/>
       </Screenshot>
       <SetEditor>
         <CopySetsWithGeomsFlag Value="1.000000000000000000e+00" ID="QJVOYOGXVAG"/>
@@ -3628,7 +3628,120 @@
       </Textures>
       <Geom>
         <Set_List>1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, </Set_List>
-        <SubSurfaces/>
+        <SubSurfaces>
+          <SubSurface>
+            <ParmContainer>
+              <ID>IJSQYGGQVY</ID>
+              <Name>flap_1</Name>
+              <FeaSubSurface>
+                <CapFeaPropertyIndex Value="-1.000000000000000000e+00" ID="BWTRATRAAMI"/>
+                <DrawFeaPartFlag Value="1.000000000000000000e+00" ID="GMKZNCAGWLK"/>
+                <FeaPropertyIndex Value="-1.000000000000000000e+00" ID="WMGRQLVXGAH"/>
+                <Orientation Value="6.000000000000000000e+00" ID="GCQOQDTOIKL"/>
+              </FeaSubSurface>
+              <ParasiteDragProps>
+                <FFBodyEqnType Value="3.000000000000000000e+00" ID="TXBWBHSTMMB"/>
+                <FFUser Value="1.000000000000000000e+00" ID="JDOJFUWJHIY"/>
+                <FFWingEqnType Value="3.000000000000000000e+00" ID="AWILVTYEMPS"/>
+                <PercLam Value="0.000000000000000000e+00" ID="KGDQTEVRXVB"/>
+                <Q Value="1.000000000000000000e+00" ID="TQFSFUMAHCR"/>
+                <Roughness Value="-1.000000000000000000e+00" ID="UJCKXQHFWOU"/>
+                <TawTwRatio Value="-1.000000000000000000e+00" ID="FVCZRKUOFCV"/>
+                <TeTwRatio Value="-1.000000000000000000e+00" ID="GGDBEXHFZGC"/>
+              </ParasiteDragProps>
+              <SS_Control>
+                <Abs_Rel_Flag Value="1.000000000000000000e+00" ID="TLCWUBYVDGJ"/>
+                <EndAngle Value="8.757145197150364879e+01" ID="LACBKVGJATZ"/>
+                <EndAngleFlag Value="0.000000000000000000e+00" ID="ZNQPSAJNUSV"/>
+                <EtaEnd Value="6.225490196078431460e-01" ID="PFRJSXQXOEB"/>
+                <EtaFlag Value="1.000000000000000000e+00" ID="OICGGIZLLAF"/>
+                <EtaStart Value="2.745098039215686514e-01" ID="KYIXFZDPARF"/>
+                <LE_Flag Value="0.000000000000000000e+00" ID="GVHYXBGCJJJ"/>
+                <Length_C_End Value="2.500000000000000000e-01" ID="MAIRSORECRE"/>
+                <Length_C_Start Value="2.500000000000000000e-01" ID="SUGMOKCLMDJ"/>
+                <Length_End Value="2.592911252389795695e-01" ID="GWGBCKEXJRD"/>
+                <Length_Start Value="3.242931287808636376e-01" ID="YDPEUENWYGM"/>
+                <SE_Const_Flag Value="1.000000000000000000e+00" ID="IPFUMVKCKBZ"/>
+                <SameAngleFlag Value="1.000000000000000000e+00" ID="DHFTRLLLANH"/>
+                <StartAngle Value="8.605633060485557451e+01" ID="YWWCLHNOVHN"/>
+                <StartAngleFlag Value="0.000000000000000000e+00" ID="EZCXSGEGOJC"/>
+                <Surf_Type Value="2.000000000000000000e+00" ID="IQVJUIXDHMC"/>
+                <Tess_Num Value="1.500000000000000000e+01" ID="FAJPTFJUCZV"/>
+                <Test_Type Value="0.000000000000000000e+00" ID="EUNDBPRBUID"/>
+                <UEnd Value="4.261373180884395206e-01" ID="WYZHXVEOAFW"/>
+                <UStart Value="3.185794576905924269e-01" ID="KXSVNFWEQDV"/>
+              </SS_Control>
+              <SubSurface>
+                <CreateBeamElements Value="0.000000000000000000e+00" ID="IQETCDJYXZA"/>
+                <IncludeFlag Value="0.000000000000000000e+00" ID="LKPRHGEQUVM"/>
+                <IncludedElements Value="-1.000000000000000000e+00" ID="JOCJJJRJRER"/>
+                <KeepDelShellElements Value="0.000000000000000000e+00" ID="POYWVPIYXOR"/>
+                <MainSurfIndx Value="0.000000000000000000e+00" ID="HCHKNLHNEUL"/>
+              </SubSurface>
+            </ParmContainer>
+            <SubSurfaceInfo>
+              <Type>3</Type>
+            </SubSurfaceInfo>
+            <FeaPropertyID>KCULTUMSSM</FeaPropertyID>
+            <CapFeaPropertyID/>
+          </SubSurface>
+          <SubSurface>
+            <ParmContainer>
+              <ID>JCAZDSKOTI</ID>
+              <Name>aileron</Name>
+              <FeaSubSurface>
+                <CapFeaPropertyIndex Value="-1.000000000000000000e+00" ID="ZJKWYYJWDYQ"/>
+                <DrawFeaPartFlag Value="1.000000000000000000e+00" ID="PIVCETXRUJJ"/>
+                <FeaPropertyIndex Value="-1.000000000000000000e+00" ID="FOSQTBRKCPN"/>
+                <Orientation Value="6.000000000000000000e+00" ID="KWJPHILDPAG"/>
+              </FeaSubSurface>
+              <ParasiteDragProps>
+                <FFBodyEqnType Value="3.000000000000000000e+00" ID="LFAMTLDZFRY"/>
+                <FFUser Value="1.000000000000000000e+00" ID="ZTYPQCQJWUK"/>
+                <FFWingEqnType Value="3.000000000000000000e+00" ID="IVPXQJOGMGR"/>
+                <PercLam Value="0.000000000000000000e+00" ID="ILIXCVBSLUW"/>
+                <Q Value="1.000000000000000000e+00" ID="WLBLJUZAQCN"/>
+                <Roughness Value="-1.000000000000000000e+00" ID="JBAIHPFKHNV"/>
+                <TawTwRatio Value="-1.000000000000000000e+00" ID="DWHSRCQZSJK"/>
+                <TeTwRatio Value="-1.000000000000000000e+00" ID="HRFBRCRPOMZ"/>
+              </ParasiteDragProps>
+              <SS_Control>
+                <Abs_Rel_Flag Value="1.000000000000000000e+00" ID="BZCJIOFBHAS"/>
+                <EndAngle Value="8.757145197150364879e+01" ID="ODWJZAJVHME"/>
+                <EndAngleFlag Value="0.000000000000000000e+00" ID="MIVYDMWIBUS"/>
+                <EtaEnd Value="8.725490196078431460e-01" ID="OJRPPWXLQZL"/>
+                <EtaFlag Value="1.000000000000000000e+00" ID="GVENSLIXMMR"/>
+                <EtaStart Value="6.245490000000000208e-01" ID="PGLWXDQGQAD"/>
+                <LE_Flag Value="0.000000000000000000e+00" ID="MVORCPYRGDW"/>
+                <Length_C_End Value="2.500000000000000000e-01" ID="STPDBSDRJVL"/>
+                <Length_C_Start Value="2.500000000000000000e-01" ID="HFJQCSGJPGJ"/>
+                <Length_End Value="2.199315568089414696e-01" ID="VXEJXZYMPPK"/>
+                <Length_Start Value="2.589762517785642038e-01" ID="CLADTIJCBVL"/>
+                <SE_Const_Flag Value="1.000000000000000000e+00" ID="RJYTSBVTMGE"/>
+                <SameAngleFlag Value="1.000000000000000000e+00" ID="MSSCXVPSOHE"/>
+                <StartAngle Value="8.757145197150364879e+01" ID="OGUMIBCUSYI"/>
+                <StartAngleFlag Value="0.000000000000000000e+00" ID="FAIQTNCEJWM"/>
+                <Surf_Type Value="2.000000000000000000e+00" ID="XGYZGIRKJEH"/>
+                <Tess_Num Value="1.500000000000000000e+01" ID="QZXZAJDOGSN"/>
+                <Test_Type Value="0.000000000000000000e+00" ID="OERQHUHGRXY"/>
+                <UEnd Value="4.983294111482524102e-01" ID="LJWSZOZGNHQ"/>
+                <UStart Value="4.267148491707930535e-01" ID="TDGKUFJFLNT"/>
+              </SS_Control>
+              <SubSurface>
+                <CreateBeamElements Value="0.000000000000000000e+00" ID="AEVBBSOEVBO"/>
+                <IncludeFlag Value="0.000000000000000000e+00" ID="JUCYLAFDQDK"/>
+                <IncludedElements Value="-1.000000000000000000e+00" ID="MTFBVWKLAUK"/>
+                <KeepDelShellElements Value="0.000000000000000000e+00" ID="CTMTXPDUJWP"/>
+                <MainSurfIndx Value="0.000000000000000000e+00" ID="QCNIERMKSCK"/>
+              </SubSurface>
+            </ParmContainer>
+            <SubSurfaceInfo>
+              <Type>3</Type>
+            </SubSurfaceInfo>
+            <FeaPropertyID>KCULTUMSSM</FeaPropertyID>
+            <CapFeaPropertyID/>
+          </SubSurface>
+        </SubSurfaces>
         <FeaStructures/>
       </Geom>
       <WingGeom>
@@ -5239,7 +5352,64 @@
       </Textures>
       <Geom>
         <Set_List>1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, </Set_List>
-        <SubSurfaces/>
+        <SubSurfaces>
+          <SubSurface>
+            <ParmContainer>
+              <ID>ANNTGNCPCM</ID>
+              <Name>elevator</Name>
+              <FeaSubSurface>
+                <CapFeaPropertyIndex Value="-1.000000000000000000e+00" ID="UZVKCPWDYKL"/>
+                <DrawFeaPartFlag Value="1.000000000000000000e+00" ID="GHODSEUDRSQ"/>
+                <FeaPropertyIndex Value="-1.000000000000000000e+00" ID="MFETVNOJBMT"/>
+                <Orientation Value="6.000000000000000000e+00" ID="FCFBBWVNYEM"/>
+              </FeaSubSurface>
+              <ParasiteDragProps>
+                <FFBodyEqnType Value="3.000000000000000000e+00" ID="AKFJKRSRTDT"/>
+                <FFUser Value="1.000000000000000000e+00" ID="UNUGVPGTCLX"/>
+                <FFWingEqnType Value="3.000000000000000000e+00" ID="XTFMUYDAIKB"/>
+                <PercLam Value="0.000000000000000000e+00" ID="FVYLRHXMYSY"/>
+                <Q Value="1.000000000000000000e+00" ID="CYRJETARBQQ"/>
+                <Roughness Value="-1.000000000000000000e+00" ID="ZCKLVLSNYRR"/>
+                <TawTwRatio Value="-1.000000000000000000e+00" ID="VHPOJYZNTFT"/>
+                <TeTwRatio Value="-1.000000000000000000e+00" ID="SWPQUWYTFRW"/>
+              </ParasiteDragProps>
+              <SS_Control>
+                <Abs_Rel_Flag Value="1.000000000000000000e+00" ID="SCASROSIFCJ"/>
+                <EndAngle Value="8.516372984993884643e+01" ID="MSDSLKWNKTA"/>
+                <EndAngleFlag Value="0.000000000000000000e+00" ID="FYJCHOULGNT"/>
+                <EtaEnd Value="5.882352941176470507e-02" ID="YECMXQNTLUE"/>
+                <EtaFlag Value="1.000000000000000000e+00" ID="GODHDEVLNCR"/>
+                <EtaStart Value="8.284313725490196623e-01" ID="AGLYIOGFVVM"/>
+                <LE_Flag Value="0.000000000000000000e+00" ID="PQYAAKMAJQI"/>
+                <Length_C_End Value="2.500000000000000000e-01" ID="APSAGPCNOPT"/>
+                <Length_C_Start Value="2.500000000000000000e-01" ID="GAPSMJGRKUN"/>
+                <Length_End Value="1.697147872698960558e-01" ID="JLYQYIKAKFH"/>
+                <Length_Start Value="7.433450405103628200e-02" ID="THRVFRQBGVH"/>
+                <SE_Const_Flag Value="1.000000000000000000e+00" ID="RMIWFEFRDGX"/>
+                <SameAngleFlag Value="1.000000000000000000e+00" ID="GARPSJJRVMD"/>
+                <StartAngle Value="8.516372984993884643e+01" ID="AOFUZTESRVQ"/>
+                <StartAngleFlag Value="0.000000000000000000e+00" ID="BWOQTIZPCGB"/>
+                <Surf_Type Value="2.000000000000000000e+00" ID="WCXKEBZNMMC"/>
+                <Tess_Num Value="1.500000000000000000e+01" ID="PJSWGFIOEUK"/>
+                <Test_Type Value="0.000000000000000000e+00" ID="RSNQEJYDMBM"/>
+                <UEnd Value="2.677110872438863143e-01" ID="YFBLXBMWVBC"/>
+                <UStart Value="4.994311453513989862e-01" ID="KQCQDMPWRXR"/>
+              </SS_Control>
+              <SubSurface>
+                <CreateBeamElements Value="0.000000000000000000e+00" ID="XKBOMTAUJIT"/>
+                <IncludeFlag Value="0.000000000000000000e+00" ID="OIHLMBGFAHF"/>
+                <IncludedElements Value="-1.000000000000000000e+00" ID="HQGQBGGDAVD"/>
+                <KeepDelShellElements Value="0.000000000000000000e+00" ID="YGRCPLDVWOX"/>
+                <MainSurfIndx Value="0.000000000000000000e+00" ID="QIASFWINLMQ"/>
+              </SubSurface>
+            </ParmContainer>
+            <SubSurfaceInfo>
+              <Type>3</Type>
+            </SubSurfaceInfo>
+            <FeaPropertyID>KCULTUMSSM</FeaPropertyID>
+            <CapFeaPropertyID/>
+          </SubSurface>
+        </SubSurfaces>
         <FeaStructures/>
       </Geom>
       <WingGeom>
@@ -5888,7 +6058,64 @@
       </Textures>
       <Geom>
         <Set_List>1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, </Set_List>
-        <SubSurfaces/>
+        <SubSurfaces>
+          <SubSurface>
+            <ParmContainer>
+              <ID>HXSNLPEFZS</ID>
+              <Name>rudder_1</Name>
+              <FeaSubSurface>
+                <CapFeaPropertyIndex Value="-1.000000000000000000e+00" ID="QGSIJNBYLDE"/>
+                <DrawFeaPartFlag Value="1.000000000000000000e+00" ID="MJHKIMIIJFC"/>
+                <FeaPropertyIndex Value="-1.000000000000000000e+00" ID="TCSQWKPVJDF"/>
+                <Orientation Value="6.000000000000000000e+00" ID="DMZXGHDNDOC"/>
+              </FeaSubSurface>
+              <ParasiteDragProps>
+                <FFBodyEqnType Value="3.000000000000000000e+00" ID="GZXWMSMHUOQ"/>
+                <FFUser Value="1.000000000000000000e+00" ID="AJZEIQAODTT"/>
+                <FFWingEqnType Value="3.000000000000000000e+00" ID="TGEMLJQOCLN"/>
+                <PercLam Value="0.000000000000000000e+00" ID="FDUCKDUXTWE"/>
+                <Q Value="1.000000000000000000e+00" ID="VQLSNOZUZKB"/>
+                <Roughness Value="-1.000000000000000000e+00" ID="TRVDYIPTPIN"/>
+                <TawTwRatio Value="-1.000000000000000000e+00" ID="LWOKGJOHWDU"/>
+                <TeTwRatio Value="-1.000000000000000000e+00" ID="RWQLBRLRVAT"/>
+              </ParasiteDragProps>
+              <SS_Control>
+                <Abs_Rel_Flag Value="1.000000000000000000e+00" ID="DKOOUUIYIZP"/>
+                <EndAngle Value="9.000000000000000000e+01" ID="KJMRGCLMBYO"/>
+                <EndAngleFlag Value="0.000000000000000000e+00" ID="ZOVDCSJISIN"/>
+                <EtaEnd Value="1.000000000000000000e+00" ID="YUBIJAWKNON"/>
+                <EtaFlag Value="1.000000000000000000e+00" ID="VZWOVICVZJX"/>
+                <EtaStart Value="4.901960784313725422e-03" ID="BIITQHBWGUM"/>
+                <LE_Flag Value="0.000000000000000000e+00" ID="ZKFLDQZRXCF"/>
+                <Length_C_End Value="2.009803921568627527e-01" ID="VTWVVJQUREH"/>
+                <Length_C_Start Value="2.009803921568627527e-01" ID="VLADJIOQBJW"/>
+                <Length_End Value="1.867107843137254530e-01" ID="ZWPTQKSFOUS"/>
+                <Length_Start Value="8.085953908332654816e-01" ID="JNYBDFKDMIZ"/>
+                <SE_Const_Flag Value="1.000000000000000000e+00" ID="CXTTCCOWLSZ"/>
+                <SameAngleFlag Value="1.000000000000000000e+00" ID="KYQZXVDLIJZ"/>
+                <StartAngle Value="9.226844889282331508e+01" ID="DRKVLYENKOZ"/>
+                <StartAngleFlag Value="0.000000000000000000e+00" ID="EMZCRBBURBM"/>
+                <Surf_Type Value="2.000000000000000000e+00" ID="XKGUOBLRMYP"/>
+                <Tess_Num Value="1.500000000000000000e+01" ID="OVXGHNMXOLU"/>
+                <Test_Type Value="0.000000000000000000e+00" ID="EYOHTQLLJVX"/>
+                <UEnd Value="1.000000000000000000e+00" ID="TKZAWOXHBQA"/>
+                <UStart Value="2.069819819819819773e-01" ID="CLQVTXJCBIB"/>
+              </SS_Control>
+              <SubSurface>
+                <CreateBeamElements Value="0.000000000000000000e+00" ID="VQHPPJXXPDX"/>
+                <IncludeFlag Value="0.000000000000000000e+00" ID="PWBECLCRJAN"/>
+                <IncludedElements Value="-1.000000000000000000e+00" ID="AFVWXMFXCZK"/>
+                <KeepDelShellElements Value="0.000000000000000000e+00" ID="HTKEKOMGIUM"/>
+                <MainSurfIndx Value="0.000000000000000000e+00" ID="PSBTSFUSQKB"/>
+              </SubSurface>
+            </ParmContainer>
+            <SubSurfaceInfo>
+              <Type>3</Type>
+            </SubSurfaceInfo>
+            <FeaPropertyID>KCULTUMSSM</FeaPropertyID>
+            <CapFeaPropertyID/>
+          </SubSurface>
+        </SubSurfaces>
         <FeaStructures/>
       </Geom>
       <WingGeom>
@@ -8490,7 +8717,7 @@ void Scale(double curr_scale )
         </XForm>
       </ParmContainer>
       <GeomBase>
-        <TypeName>Disk</TypeName>
+        <TypeName>Custom</TypeName>
         <TypeID>9</TypeID>
         <TypeFixed>0</TypeFixed>
         <ParentID>FOEOZBEWFY</ParentID>
@@ -10478,7 +10705,7 @@ void Scale(double curr_scale )
         </XForm>
       </ParmContainer>
       <GeomBase>
-        <TypeName>Disk</TypeName>
+        <TypeName>Custom</TypeName>
         <TypeID>9</TypeID>
         <TypeFixed>0</TypeFixed>
         <ParentID>VKADRCHLSK</ParentID>
@@ -10643,7 +10870,97 @@ void Scale(double curr_scale )
         <m_UnsteadyYMinIsManual Value="0.000000000000000000e+00" ID="LUIMWHVPYPF"/>
       </VSPAERO>
     </ParmContainer>
-    <ControlSurfaceGroupCount>0</ControlSurfaceGroupCount>
+    <ControlSurfaceGroupCount>4</ControlSurfaceGroupCount>
+    <Control_Surface_Group>
+      <ParentGeomBase/>
+      <NumberOfControlSubSurfaces>2</NumberOfControlSubSurfaces>
+      <Control_Surface>
+        <SSID>IJSQYGGQVY</SSID>
+        <ParentGeomID>BVDYVJMVPY</ParentGeomID>
+        <iReflect>0</iReflect>
+      </Control_Surface>
+      <Control_Surface>
+        <SSID>IJSQYGGQVY</SSID>
+        <ParentGeomID>BVDYVJMVPY</ParentGeomID>
+        <iReflect>1</iReflect>
+      </Control_Surface>
+      <ParmContainer>
+        <ID>ERNIESCMJF</ID>
+        <Name>FLAP</Name>
+        <ControlSurfaceGroup>
+          <ActiveFlag Value="1.000000000000000000e+00" ID="AWVIAKQCLSB"/>
+          <DeflectionAngle Value="0.000000000000000000e+00" ID="NGJLVFJWPAX"/>
+          <Surf_IJSQYGGQVY_0_Gain Value="1.000000000000000000e+00" ID="DIAKXUJXUIO"/>
+          <Surf_IJSQYGGQVY_1_Gain Value="-1.000000000000000000e+00" ID="YQXYNEHSBTF"/>
+        </ControlSurfaceGroup>
+      </ParmContainer>
+    </Control_Surface_Group>
+    <Control_Surface_Group>
+      <ParentGeomBase/>
+      <NumberOfControlSubSurfaces>2</NumberOfControlSubSurfaces>
+      <Control_Surface>
+        <SSID>JCAZDSKOTI</SSID>
+        <ParentGeomID>BVDYVJMVPY</ParentGeomID>
+        <iReflect>0</iReflect>
+      </Control_Surface>
+      <Control_Surface>
+        <SSID>JCAZDSKOTI</SSID>
+        <ParentGeomID>BVDYVJMVPY</ParentGeomID>
+        <iReflect>1</iReflect>
+      </Control_Surface>
+      <ParmContainer>
+        <ID>ZOOBFLIUVV</ID>
+        <Name>AILERON</Name>
+        <ControlSurfaceGroup>
+          <ActiveFlag Value="1.000000000000000000e+00" ID="EPVQZUKGKKP"/>
+          <DeflectionAngle Value="0.000000000000000000e+00" ID="FEHWQUSRTVG"/>
+          <Surf_JCAZDSKOTI_0_Gain Value="1.000000000000000000e+00" ID="RCGQEYWIXFA"/>
+          <Surf_JCAZDSKOTI_1_Gain Value="1.000000000000000000e+00" ID="XDJGFHPUIMW"/>
+        </ControlSurfaceGroup>
+      </ParmContainer>
+    </Control_Surface_Group>
+    <Control_Surface_Group>
+      <ParentGeomBase/>
+      <NumberOfControlSubSurfaces>2</NumberOfControlSubSurfaces>
+      <Control_Surface>
+        <SSID>ANNTGNCPCM</SSID>
+        <ParentGeomID>RQQHRILPBK</ParentGeomID>
+        <iReflect>0</iReflect>
+      </Control_Surface>
+      <Control_Surface>
+        <SSID>ANNTGNCPCM</SSID>
+        <ParentGeomID>RQQHRILPBK</ParentGeomID>
+        <iReflect>1</iReflect>
+      </Control_Surface>
+      <ParmContainer>
+        <ID>HQJKIWNESD</ID>
+        <Name>ELEVATOR</Name>
+        <ControlSurfaceGroup>
+          <ActiveFlag Value="1.000000000000000000e+00" ID="KIITWGUIVAG"/>
+          <DeflectionAngle Value="0.000000000000000000e+00" ID="ASKNJOSCMZB"/>
+          <Surf_ANNTGNCPCM_0_Gain Value="1.000000000000000000e+00" ID="UPOBGPJWLIR"/>
+          <Surf_ANNTGNCPCM_1_Gain Value="-1.000000000000000000e+00" ID="HXWJDSHHGBD"/>
+        </ControlSurfaceGroup>
+      </ParmContainer>
+    </Control_Surface_Group>
+    <Control_Surface_Group>
+      <ParentGeomBase/>
+      <NumberOfControlSubSurfaces>1</NumberOfControlSubSurfaces>
+      <Control_Surface>
+        <SSID>HXSNLPEFZS</SSID>
+        <ParentGeomID>FYMGJZNRWJ</ParentGeomID>
+        <iReflect>0</iReflect>
+      </Control_Surface>
+      <ParmContainer>
+        <ID>FWYIYVCRMF</ID>
+        <Name>RUDDER</Name>
+        <ControlSurfaceGroup>
+          <ActiveFlag Value="1.000000000000000000e+00" ID="HJZANQMOFME"/>
+          <DeflectionAngle Value="0.000000000000000000e+00" ID="CXXZLMZAFOL"/>
+          <Surf_HXSNLPEFZS_0_Gain Value="-1.000000000000000000e+00" ID="ZWVOIZOZUQC"/>
+        </ControlSurfaceGroup>
+      </ParmContainer>
+    </Control_Surface_Group>
     <RotorDiskCount>2</RotorDiskCount>
     <Rotor>
       <ParmContainer>
@@ -10909,6 +11226,228 @@ void Scale(double curr_scale )
         <CurrStructIndex Value="-1.000000000000000000e+00" ID="VRBCSVVOZOJ"/>
       </Struct>
     </ParmContainer>
+    <FeaPropertyInfo>
+      <ParmContainer>
+        <ID>KCULTUMSSM</ID>
+        <Name>DefaultShell</Name>
+        <FeaProperty>
+          <CrossSecArea Value="1.000000000000000056e-01" ID="YSLJAQSTPJA"/>
+          <CrossSecArea_FEM Value="1.000000000000000056e-01" ID="UVKUFJFPRCD"/>
+          <CrossSectType Value="0.000000000000000000e+00" ID="ZHUMGDKLCFB"/>
+          <Dim1 Value="1.000000000000000056e-01" ID="VVWPFSFZUGM"/>
+          <Dim1_FEM Value="1.000000000000000056e-01" ID="IHKBGXJBMXL"/>
+          <Dim2 Value="1.000000000000000056e-01" ID="NKZYEXPKLUB"/>
+          <Dim2_FEM Value="1.000000000000000056e-01" ID="GAOVWDMDQPJ"/>
+          <Dim3 Value="1.000000000000000056e-01" ID="VUEFYAUYQHS"/>
+          <Dim3_FEM Value="1.000000000000000056e-01" ID="HYEIDFIZVSD"/>
+          <Dim4 Value="1.000000000000000056e-01" ID="SMBRNDCWHUZ"/>
+          <Dim4_FEM Value="1.000000000000000056e-01" ID="RLEDYYQOZGO"/>
+          <Dim5 Value="1.000000000000000056e-01" ID="PWAXDLITBFW"/>
+          <Dim5_FEM Value="1.000000000000000056e-01" ID="UADFLQPUXPY"/>
+          <Dim6 Value="1.000000000000000056e-01" ID="RLWTSQSUYVQ"/>
+          <Dim6_FEM Value="1.000000000000000056e-01" ID="SCWPWVWMTXR"/>
+          <FeaMaterialIndex Value="-1.000000000000000000e+00" ID="EJYLCXIGYWK"/>
+          <FeaPropertyType Value="0.000000000000000000e+00" ID="NASXMYYYSVW"/>
+          <Ixx Value="1.000000000000000056e-01" ID="TASVLMEKHFP"/>
+          <Ixx_FEM Value="1.000000000000000056e-01" ID="TXUAJHFKVVE"/>
+          <Iyy Value="1.000000000000000056e-01" ID="TEDPKXNIPHG"/>
+          <Iyy_FEM Value="1.000000000000000056e-01" ID="RQANCAMARAU"/>
+          <Izy Value="1.000000000000000056e-01" ID="EJCCQPDRLLP"/>
+          <Izy_FEM Value="1.000000000000000056e-01" ID="XAVNHOCUAQL"/>
+          <Izz Value="1.000000000000000056e-01" ID="BRLWAPJNDDF"/>
+          <Izz_FEM Value="1.000000000000000056e-01" ID="ZGOMAUSYJAX"/>
+          <LengthUnit Value="3.000000000000000000e+00" ID="IQSKWXYWGPD"/>
+          <Thickness Value="1.000000000000000056e-01" ID="OGNTUNUOORQ"/>
+          <Thickness_FEM Value="1.000000000000000056e-01" ID="ZZJNROMFVXX"/>
+        </FeaProperty>
+      </ParmContainer>
+      <FeaMaterialID>_Al6061T6</FeaMaterialID>
+    </FeaPropertyInfo>
+    <FeaPropertyInfo>
+      <ParmContainer>
+        <ID>ZMYQVMCNKP</ID>
+        <Name>DefaultBeam</Name>
+        <FeaProperty>
+          <CrossSecArea Value="1.000000000000000056e-01" ID="VABOWZWIJNF"/>
+          <CrossSecArea_FEM Value="1.000000000000000056e-01" ID="PDLFWRQIQRQ"/>
+          <CrossSectType Value="0.000000000000000000e+00" ID="SUHTDXGOOZY"/>
+          <Dim1 Value="1.000000000000000056e-01" ID="KCQQLCFHNXN"/>
+          <Dim1_FEM Value="1.000000000000000056e-01" ID="RDQGGNNGREP"/>
+          <Dim2 Value="1.000000000000000056e-01" ID="PTHZGZYDAFG"/>
+          <Dim2_FEM Value="1.000000000000000056e-01" ID="KFUMSZNOZIF"/>
+          <Dim3 Value="1.000000000000000056e-01" ID="DAUPRUYXRBG"/>
+          <Dim3_FEM Value="1.000000000000000056e-01" ID="PNWOHLEGKZV"/>
+          <Dim4 Value="1.000000000000000056e-01" ID="CHDNRLNRHLY"/>
+          <Dim4_FEM Value="1.000000000000000056e-01" ID="PFHEXVZWOTU"/>
+          <Dim5 Value="1.000000000000000056e-01" ID="SJPJXWNLKSI"/>
+          <Dim5_FEM Value="1.000000000000000056e-01" ID="BVODTGNPZKG"/>
+          <Dim6 Value="1.000000000000000056e-01" ID="RHCETGEIEKF"/>
+          <Dim6_FEM Value="1.000000000000000056e-01" ID="QQXLZZGLCNN"/>
+          <FeaMaterialIndex Value="-1.000000000000000000e+00" ID="CGJRIFKSBRP"/>
+          <FeaPropertyType Value="1.000000000000000000e+00" ID="AOVAGUKQMQL"/>
+          <Ixx Value="1.000000000000000056e-01" ID="TDVNZOUGJBO"/>
+          <Ixx_FEM Value="1.000000000000000056e-01" ID="SSEAZCQMZRN"/>
+          <Iyy Value="1.000000000000000056e-01" ID="PJKJXYXKBRT"/>
+          <Iyy_FEM Value="1.000000000000000056e-01" ID="RVTGHGWFGDL"/>
+          <Izy Value="1.000000000000000056e-01" ID="MEUTLQSTVXJ"/>
+          <Izy_FEM Value="1.000000000000000056e-01" ID="UULVPNAZIWC"/>
+          <Izz Value="1.000000000000000056e-01" ID="WOCQUCBERYI"/>
+          <Izz_FEM Value="1.000000000000000056e-01" ID="CISLBENPJCT"/>
+          <LengthUnit Value="3.000000000000000000e+00" ID="CZVECPYEZLB"/>
+          <Thickness Value="1.000000000000000056e-01" ID="UTYRCNYHGUR"/>
+          <Thickness_FEM Value="1.000000000000000056e-01" ID="HCGUAIIEPXC"/>
+        </FeaProperty>
+      </ParmContainer>
+      <FeaMaterialID>_Al6061T6</FeaMaterialID>
+    </FeaPropertyInfo>
+    <FeaPropertyInfo>
+      <ParmContainer>
+        <ID>WWSHKQJMMQ</ID>
+        <Name>DefaultShell</Name>
+        <FeaProperty>
+          <CrossSecArea Value="1.000000000000000056e-01" ID="QQJKGBECYJI"/>
+          <CrossSecArea_FEM Value="1.000000000000000056e-01" ID="MOZGJCDMTSB"/>
+          <CrossSectType Value="0.000000000000000000e+00" ID="ZFLAGPXQPXR"/>
+          <Dim1 Value="1.000000000000000056e-01" ID="RYWUXHSOWNX"/>
+          <Dim1_FEM Value="1.000000000000000056e-01" ID="LNJNZDZFAPV"/>
+          <Dim2 Value="1.000000000000000056e-01" ID="WBQPXBTXOIG"/>
+          <Dim2_FEM Value="1.000000000000000056e-01" ID="XSKYBZFDIWY"/>
+          <Dim3 Value="1.000000000000000056e-01" ID="YSRJWILRNRK"/>
+          <Dim3_FEM Value="1.000000000000000056e-01" ID="THXNPSCNKMW"/>
+          <Dim4 Value="1.000000000000000056e-01" ID="GFXPTHRJEUF"/>
+          <Dim4_FEM Value="1.000000000000000056e-01" ID="HEQYBBFTUIO"/>
+          <Dim5 Value="1.000000000000000056e-01" ID="MUZAACGKRYZ"/>
+          <Dim5_FEM Value="1.000000000000000056e-01" ID="SINRWKKDMCT"/>
+          <Dim6 Value="1.000000000000000056e-01" ID="APDBSJWCANZ"/>
+          <Dim6_FEM Value="1.000000000000000056e-01" ID="IXTLJZJMIKW"/>
+          <FeaMaterialIndex Value="-1.000000000000000000e+00" ID="FOBPYIFWCRY"/>
+          <FeaPropertyType Value="0.000000000000000000e+00" ID="WUWWCCXJXKX"/>
+          <Ixx Value="1.000000000000000056e-01" ID="JRKFTRZRBNJ"/>
+          <Ixx_FEM Value="1.000000000000000056e-01" ID="LVUWGXPRHQI"/>
+          <Iyy Value="1.000000000000000056e-01" ID="GBIAYYPBKUT"/>
+          <Iyy_FEM Value="1.000000000000000056e-01" ID="QFTYKDDQBLW"/>
+          <Izy Value="1.000000000000000056e-01" ID="PSRQQSZLNBV"/>
+          <Izy_FEM Value="1.000000000000000056e-01" ID="MBTAQEOPNFP"/>
+          <Izz Value="1.000000000000000056e-01" ID="QCATOYBGIZP"/>
+          <Izz_FEM Value="1.000000000000000056e-01" ID="JFHONKVHQLA"/>
+          <LengthUnit Value="3.000000000000000000e+00" ID="VPUZCBZZICT"/>
+          <Thickness Value="1.000000000000000056e-01" ID="BIIUEZKSFWT"/>
+          <Thickness_FEM Value="1.000000000000000056e-01" ID="CQJFYRJWNQH"/>
+        </FeaProperty>
+      </ParmContainer>
+      <FeaMaterialID>_Al6061T6</FeaMaterialID>
+    </FeaPropertyInfo>
+    <FeaPropertyInfo>
+      <ParmContainer>
+        <ID>BQVZKNSNHX</ID>
+        <Name>DefaultBeam</Name>
+        <FeaProperty>
+          <CrossSecArea Value="1.000000000000000056e-01" ID="MOTXBVGACVW"/>
+          <CrossSecArea_FEM Value="1.000000000000000056e-01" ID="XZJBZTRWLTK"/>
+          <CrossSectType Value="0.000000000000000000e+00" ID="PSHVCHGZKRB"/>
+          <Dim1 Value="1.000000000000000056e-01" ID="UPIEWBPPGVZ"/>
+          <Dim1_FEM Value="1.000000000000000056e-01" ID="GOFQYKRSHWL"/>
+          <Dim2 Value="1.000000000000000056e-01" ID="ZAQJASSBOUK"/>
+          <Dim2_FEM Value="1.000000000000000056e-01" ID="SWMQVHTWLCV"/>
+          <Dim3 Value="1.000000000000000056e-01" ID="DGJLVTIFRBF"/>
+          <Dim3_FEM Value="1.000000000000000056e-01" ID="EKCPOOULQJG"/>
+          <Dim4 Value="1.000000000000000056e-01" ID="BJQOLZXJVIS"/>
+          <Dim4_FEM Value="1.000000000000000056e-01" ID="AUPCFQOQOPW"/>
+          <Dim5 Value="1.000000000000000056e-01" ID="SANMQPVVUEO"/>
+          <Dim5_FEM Value="1.000000000000000056e-01" ID="KKTNXAZNUSO"/>
+          <Dim6 Value="1.000000000000000056e-01" ID="VRSUOWRTGZS"/>
+          <Dim6_FEM Value="1.000000000000000056e-01" ID="DAMLEAUJQIH"/>
+          <FeaMaterialIndex Value="-1.000000000000000000e+00" ID="HRHKSXFGZIL"/>
+          <FeaPropertyType Value="1.000000000000000000e+00" ID="OLPFKMMEABJ"/>
+          <Ixx Value="1.000000000000000056e-01" ID="UDIRHWWOFZV"/>
+          <Ixx_FEM Value="1.000000000000000056e-01" ID="OHCWZGLNZZI"/>
+          <Iyy Value="1.000000000000000056e-01" ID="MJOXTMYGHJL"/>
+          <Iyy_FEM Value="1.000000000000000056e-01" ID="QICNPTZPDWC"/>
+          <Izy Value="1.000000000000000056e-01" ID="VAFYXURHLRA"/>
+          <Izy_FEM Value="1.000000000000000056e-01" ID="PFJKVWFDVVX"/>
+          <Izz Value="1.000000000000000056e-01" ID="UULFWWDNBUT"/>
+          <Izz_FEM Value="1.000000000000000056e-01" ID="ABWLEHZMYWS"/>
+          <LengthUnit Value="3.000000000000000000e+00" ID="VQQKATOEDIG"/>
+          <Thickness Value="1.000000000000000056e-01" ID="WUXBSDSPKPW"/>
+          <Thickness_FEM Value="1.000000000000000056e-01" ID="FJUKTHZYSMP"/>
+        </FeaProperty>
+      </ParmContainer>
+      <FeaMaterialID>_Al6061T6</FeaMaterialID>
+    </FeaPropertyInfo>
+    <FeaPropertyInfo>
+      <ParmContainer>
+        <ID>KFGZKWTPTJ</ID>
+        <Name>DefaultShell</Name>
+        <FeaProperty>
+          <CrossSecArea Value="1.000000000000000056e-01" ID="ENKBDWJFJGF"/>
+          <CrossSecArea_FEM Value="1.000000000000000056e-01" ID="PHRCVMBFTSI"/>
+          <CrossSectType Value="0.000000000000000000e+00" ID="ZEUVEUBEZIS"/>
+          <Dim1 Value="1.000000000000000056e-01" ID="OATBAMEORSI"/>
+          <Dim1_FEM Value="1.000000000000000056e-01" ID="EPCDEGXETFV"/>
+          <Dim2 Value="1.000000000000000056e-01" ID="DWCCHFYLVSR"/>
+          <Dim2_FEM Value="1.000000000000000056e-01" ID="WSSHSOJMFIW"/>
+          <Dim3 Value="1.000000000000000056e-01" ID="RNWPABOYHSF"/>
+          <Dim3_FEM Value="1.000000000000000056e-01" ID="MAVTUUKLLGJ"/>
+          <Dim4 Value="1.000000000000000056e-01" ID="ZWNQUYFGRZC"/>
+          <Dim4_FEM Value="1.000000000000000056e-01" ID="SFZQQYFJEQA"/>
+          <Dim5 Value="1.000000000000000056e-01" ID="BIYHMQWXSMT"/>
+          <Dim5_FEM Value="1.000000000000000056e-01" ID="SMBRRHCUWKX"/>
+          <Dim6 Value="1.000000000000000056e-01" ID="UWPVPDDAKMN"/>
+          <Dim6_FEM Value="1.000000000000000056e-01" ID="AEZFPAXZHWL"/>
+          <FeaMaterialIndex Value="-1.000000000000000000e+00" ID="WYHJMCVXAGQ"/>
+          <FeaPropertyType Value="0.000000000000000000e+00" ID="HBFVBNGFEZZ"/>
+          <Ixx Value="1.000000000000000056e-01" ID="AVEFQVIYVWH"/>
+          <Ixx_FEM Value="1.000000000000000056e-01" ID="IBBVFZAMSYS"/>
+          <Iyy Value="1.000000000000000056e-01" ID="WWLEOGUODBK"/>
+          <Iyy_FEM Value="1.000000000000000056e-01" ID="NIECGAZFEGH"/>
+          <Izy Value="1.000000000000000056e-01" ID="YGKBDOJVTRY"/>
+          <Izy_FEM Value="1.000000000000000056e-01" ID="NKXBEPKDHTF"/>
+          <Izz Value="1.000000000000000056e-01" ID="ECUXKMCMWSX"/>
+          <Izz_FEM Value="1.000000000000000056e-01" ID="PIKNXAIFXPN"/>
+          <LengthUnit Value="3.000000000000000000e+00" ID="UOQCULPYMJY"/>
+          <Thickness Value="1.000000000000000056e-01" ID="QJVUWDEEDBL"/>
+          <Thickness_FEM Value="1.000000000000000056e-01" ID="SJEEPJJHTXL"/>
+        </FeaProperty>
+      </ParmContainer>
+      <FeaMaterialID>_Al6061T6</FeaMaterialID>
+    </FeaPropertyInfo>
+    <FeaPropertyInfo>
+      <ParmContainer>
+        <ID>WAFMIFQBCS</ID>
+        <Name>DefaultBeam</Name>
+        <FeaProperty>
+          <CrossSecArea Value="1.000000000000000056e-01" ID="KJFLSWUJDTK"/>
+          <CrossSecArea_FEM Value="1.000000000000000056e-01" ID="TXDKAJQRPUJ"/>
+          <CrossSectType Value="0.000000000000000000e+00" ID="OULAJNFIILC"/>
+          <Dim1 Value="1.000000000000000056e-01" ID="LTFTIGRDOOB"/>
+          <Dim1_FEM Value="1.000000000000000056e-01" ID="LDSXYCCAKMJ"/>
+          <Dim2 Value="1.000000000000000056e-01" ID="WGMESEGRQYE"/>
+          <Dim2_FEM Value="1.000000000000000056e-01" ID="WEJJIUAWWRQ"/>
+          <Dim3 Value="1.000000000000000056e-01" ID="PRTAVHNJVYN"/>
+          <Dim3_FEM Value="1.000000000000000056e-01" ID="UZZJSCGHBLO"/>
+          <Dim4 Value="1.000000000000000056e-01" ID="NEFZFCXMLEI"/>
+          <Dim4_FEM Value="1.000000000000000056e-01" ID="BCDCOYOPFWO"/>
+          <Dim5 Value="1.000000000000000056e-01" ID="SUREZNQQWRM"/>
+          <Dim5_FEM Value="1.000000000000000056e-01" ID="PHRXGWZVXGK"/>
+          <Dim6 Value="1.000000000000000056e-01" ID="ULVQCTCHMTZ"/>
+          <Dim6_FEM Value="1.000000000000000056e-01" ID="YXVFQVHWUJS"/>
+          <FeaMaterialIndex Value="-1.000000000000000000e+00" ID="UMSHMLMAVJJ"/>
+          <FeaPropertyType Value="1.000000000000000000e+00" ID="ALRIEQZDGLH"/>
+          <Ixx Value="1.000000000000000056e-01" ID="HNHVKHWHBDM"/>
+          <Ixx_FEM Value="1.000000000000000056e-01" ID="XCQJHLFCHQS"/>
+          <Iyy Value="1.000000000000000056e-01" ID="GLXNUUCOMLT"/>
+          <Iyy_FEM Value="1.000000000000000056e-01" ID="BAHYNZKBLFO"/>
+          <Izy Value="1.000000000000000056e-01" ID="JJKTUKJFPLV"/>
+          <Izy_FEM Value="1.000000000000000056e-01" ID="EZQQMQEPQUC"/>
+          <Izz Value="1.000000000000000056e-01" ID="OHLILSAKJNW"/>
+          <Izz_FEM Value="1.000000000000000056e-01" ID="JTTNUIDHIAX"/>
+          <LengthUnit Value="3.000000000000000000e+00" ID="NQLNKUVHTMS"/>
+          <Thickness Value="1.000000000000000056e-01" ID="DQQCXLIXHRR"/>
+          <Thickness_FEM Value="1.000000000000000056e-01" ID="CRDDJWPBMNB"/>
+        </FeaProperty>
+      </ParmContainer>
+      <FeaMaterialID>_Al6061T6</FeaMaterialID>
+    </FeaPropertyInfo>
     <FeaPropertyInfo>
       <ParmContainer>
         <ID>ASVXWGMKDO</ID>
